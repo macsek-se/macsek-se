@@ -4,56 +4,31 @@ title: MACSEK Suli
 programActive: true
 ---
 
-A __MACSEK Suli__ csoportos foglalkozás, ahová magyarul jól tudó 6-7 éves 
-gyermekeket várunk. Célunk, hogy lehetőséget biztosítsunk a MACSEK Suliba járó
-gyerekeknek a magyar nyelv és irodalom 1. osztályos anyagának elsajátítását.
-Olyan szülőket keresünk, akik aktívan támogatni tudják gyermeküket a tananyag
+A __MACSEK Suli__ csoportos foglalkozás, ahová magyarul jól tudó gyermekeket várunk 5,5 éves kortól. 
+Célunk, hogy lehetőséget biztosítsunk a MACSEK Suliba járó
+gyerekeknek a magyar nyelv és irodalom tananyagának az elsajátítására.
+Olyan szülőket keresünk, akik aktívan támogatni tudják gyermeküket a magyarországi tanterv szerinti tananyag
 elsajátításában. Mivel csoportos foglalkozásról és korlátozott óraszámról van
 szó, fontos, hogy a szülők segítsék a tanító munkáját, legyen az házi feladat
 vagy/és rendszeres gyakorlás a foglalkozások közötti időben.
 
-A foglalkozások a szülő jelenléte nélkül zajlanak. Mivel a MACSEK-ben ovis
-foglalkozás is zajlanak párhuzamosan, a MACSEK Sulihoz tartozó szülők nem
-tartózkodhatnak az épületben. A gyermekek legalább 10 perccel a tanóra előtt
+A foglalkozások a szülő jelenléte nélkül zajlanak. Kérjük, hogy a gyermekek legalább 10 perccel a tanóra előtt
 legyenek a helyszínen, mivel a foglalkozások pontosan kezdődnek. Az
-alapfelszerelésen túl szükség lesz váltó cipőre, valamint tízóraira. A tanórák
-45 percesek. Tízórai szünet van a két tanóra között.
+alapfelszerelésen túl szükség lesz váltó cipőre, valamint tízóraira. A tanórák kezdetben egyszer, majd kétszer
+45 percesek.
 
 _Amire még a gyerekeknek szükségük lesz_: <br/>
 - olvasókönyv és munkafüzet (infó a zárt csoportban lesz, a beszerzésbe besegítünk)<br/>
-- első osztályos vonalas füzet
+- az osztálynak megfelelő vonalas füzet
 - sima A4-es spirál füzet
-- tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák
+- tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák, a kezdetekhez ceruzafogó 
 
-MASCEK sulisaink tagjai lehetnek a MACSEK Alkotókörnek, ahol havi egy órában
-elsajátíthatják a különböző képalkotói technikákat.
+MASCEK sulisaink tagjai lehetnek a MACSEK Kultúrkörnek.
 
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
 magyarcsemetekkozossege@gmail.com címünkre.
 
 A létszám korlátozott.
-
-- A tagsági díj függ a jelentkező gyermekek létszámától.
-
-Fizetési határidő: 2024. augusztus 25.
-
-Bankgiro számunk: 544-2686. A közlemény rovatba kérjük a gyermek(ek) nevét beírni.
-
-
-# Időpontok
-
-2025-VT: __Magyar nyelv és irodalom előkészítő osztály__
-január 12-től vasárnaponként 15 alkalommal 9-10 óra között
-
-2024-HT: __Magyar nyelv és irodalom 1. osztály__
-augusztus 25-től vasárnaponként 15 alkalommal 9-11 óra között
-
-2024-HT: __Magyar nyelv és irodalom 2. osztály__
-augusztus 25-től vasárnaponként 15 alkalommal 11-13 óra között
-
-## Őszi félév
-
-Kezdés: 2024. augusztus 25.
 
 # Helyszín
 
