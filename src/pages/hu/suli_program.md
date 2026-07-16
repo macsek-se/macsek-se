@@ -23,7 +23,7 @@ _Amire még a gyerekeknek szükségük lesz_: <br/>
 - sima A4-es spirál füzet
 - tolltartó, benne 2-3 db. normál grafit HB ceruza, radír, hegyező, színes ceruzák, a kezdetekhez ceruzafogó 
 
-MASCEK sulisaink tagjai lehetnek a MACSEK Kultúrkörnek.
+MACSEK sulisaink tagjai lehetnek a MACSEK Kultúrkörnek.
 
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
 magyarcsemetekkozossege@gmail.com címünkre.
