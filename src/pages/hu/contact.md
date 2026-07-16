@@ -5,7 +5,7 @@ contactActive: true
 ---
 
 <span class="glyphicon glyphicon-envelope"></span>
-E-mail címünk: info@macsek.se
+E-mail címünk: magyarcsemetekkozossege@gmail.com
 
 <span class="glyphicon glyphicon-phone"></span>
 Telefonszámunk: +46 727242051, +46 727489460

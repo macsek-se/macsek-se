@@ -15,7 +15,7 @@ lektion varar 1 timme. Passande klädsel för dansen krävs:
   för pojkar
 
 För att delta i Rezeda folkdansgrupp, vänligen meddela ert intresse via e-post
-till info@macsek.se.
+till magyarcsemetekkozossege@gmail.com.
 
 Medlemsavgift: 2000 SEK/termin.
 

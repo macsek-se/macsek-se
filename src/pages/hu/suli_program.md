@@ -29,7 +29,7 @@ MASCEK sulisaink tagjai lehetnek a MACSEK Alkotókörnek, ahol havi egy órában
 elsajátíthatják a különböző képalkotói technikákat.
 
 A __MACSEK Sulira__ a részvételi szándékot kérjük emailben jelezni a
-info@macsek.se címünkre.
+magyarcsemetekkozossege@gmail.com címünkre.
 
 A létszám korlátozott.
 

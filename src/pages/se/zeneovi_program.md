@@ -23,7 +23,7 @@ Användbar information:
 - Endast friska barn får delta i aktiviteterna
 
 För att delta i MACSEK Musikförskola, vänligen meddela ert intresse via e-post
-till info@macsek.se.
+till magyarcsemetekkozossege@gmail.com.
 
 ## Medlemsavgifter:
 

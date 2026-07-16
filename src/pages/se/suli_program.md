@@ -27,7 +27,7 @@ Vad barnen kommer att behöva: <br/>
 - Pennskrin med 2-3 vanliga HB-blyertspennor, suddgummi, pennvässare, färgpennor
 
 För att delta i __MACSEK Skola__, vänligen meddela ert intresse via e-post till 
-info@macsek.se.
+magyarcsemetekkozossege@gmail.com.
 
 Antalet platser är begränsat.
 

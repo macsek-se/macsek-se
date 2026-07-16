@@ -5,7 +5,7 @@ contactActive: true
 ---
 
 <span class="glyphicon glyphicon-envelope"></span>
-Vår e-postadress: info@macsek.se
+Vår e-postadress: magyarcsemetekkozossege@gmail.com
 
 <span class="glyphicon glyphicon-phone"></span>
 Vårt telefonnummer: +46 727242051, +46 727489460
