@@ -4,9 +4,9 @@ title: Foglalkozásvezetők
 teachersActive: true
 ---
 
-## MACSEK Zeneovi és a Rezeda néptánc csoport vezetője
+## MACSEK Zeneovi, Kerekítő Tippentő, Ringató és a Rezeda néptánc csoport vezetője
 
-### Hilda Salinas Lanchipa 
+### Salinas Lanchipa Hilda
 
 <img src="/HildaElizaSalinas.jpg" style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
