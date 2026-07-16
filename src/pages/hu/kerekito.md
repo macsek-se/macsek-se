@@ -24,6 +24,8 @@ minden játékosan kerek.
 bábjeleneteivel, ejtőernyős színes labdás résszel, valamint egy csipetnyi
 néptánccal  várjuk a családokat. Tánctudás nem szükséges!
 
+Bejelentkezést csak az első alkalommal kérünk.
+
 <img src="/kerekito_logo.png"
 style="width:15vw;border-radius:1vw;margin-right:5vw; margin-bottom:2vw" >
 
