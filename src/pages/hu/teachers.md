@@ -29,7 +29,7 @@ Szeretettel várlak benneteket a foglalkozásaimra!
 
 ### Tóthné Vermes Zita 
 
-<img src=/teacher.jpg  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
+<img src="/teacher.jpg"  style="width:15vw;border-radius:1vw;margin-right:5vw;" >
 
 Már kisgyerekként tanári pályára készültem. Családunkban hagyomány a tanítás,
 édesanyám, testvérem pedagógus, nagyapám is kántortanító volt. A családi példa
@@ -56,7 +56,7 @@ Hat gyermekünk van. A családdal 2019-ben költöztünk Svédországba.
 
 ### Nagy Klára
 
-<img src=/klara.jpg  style="width:18vw;border-radius:1vw;margin-right:5vw;" >
+<img src="/klara.jpg"  style="width:18vw;border-radius:1vw;margin-right:5vw;" >
 
 12 éve élek Täbyben férjemmel és két gyemekemmel. Tanítói diplomámat a
 Kaposvári Egyetemen szereztem 2009-ben. Kiköltözésem előtt a körmendi Olcsai
@@ -69,7 +69,7 @@ Jelenleg az egyesület munkáját, mint helyettes tanító fogom segíteni.
 
 ### Kosztándi Orsolya
 
-<img src=/orsolya.jpg  style="width:25vw;border-radius:1vw;margin-right:5vw;" >
+<img src="/orsolya.jpg"  style="width:25vw;border-radius:1vw;margin-right:5vw;" >
 
 A foglalkozásaim átfogó célja: különböző képalkotói technikák megismerése és
 magabiztos elsajátítása élvezetes módon (festés, kollázs, monotípia, stb.)
